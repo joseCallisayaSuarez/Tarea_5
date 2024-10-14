@@ -1,0 +1,13 @@
+.cont{
+    background-color: rgb(11, 36, 117);
+    color: rgb(80, 74, 66);
+}
+div h1{
+    background-color: chartreuse;
+}
+.figure{
+    background-color: aqua;
+}
+.cont .figure .figure-caption{
+    color: black;
+}
